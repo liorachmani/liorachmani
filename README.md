@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi 👋, I'm Lior Rachmani
+### I am a Full Stack web developer
 
-<!--
-**liorachmani/liorachmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- ❤️ My passion is to challange myself, create new things and continue to grow and learn.
+- 🏀 I played basketball for 12 years.
+- 💻 Finished my 4.5 years IDF service as a full stack web developer in mamram unit.
+- 💪 Currently Looking for my next challenge.
+- 📫 Reach me out at **liorachmani@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="www.linkedin.com/in/lior-rachmani">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,javascript,ts,html,css,nodejs,docker,cs,dotnet,postgres,redis,mongodb,postman,git,gitlab,openshift" />
+  </a>
+</p>
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liorachmani&show_icons=true&theme=transparent&locale=en&layout=compact" alt="liorachmani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liorachmani&show_icons=true&&theme=transparent&locale=en" alt="liorachmani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liorachmani&theme=transparent" alt="liorachmani" /></p>
+
+
+
+
+
+
+
+
+
